@@ -2,7 +2,7 @@
   "name": "map-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vegardkoder.github.io",
+  "homepage": "https://vegardkoder.github.io/mapdemo/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
