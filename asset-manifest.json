@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa33f278.css",
+    "main.js": "/static/js/main.8ae02058.js",
+    "static/js/787.eea31e77.chunk.js": "/static/js/787.eea31e77.chunk.js",
+    "static/media/map.png": "/static/media/map.8f2e682b3f04d6efac68.png",
+    "static/media/entrance.png": "/static/media/entrance.fb6a8d08697ed5fe32e6.png",
+    "static/media/zoo.png": "/static/media/zoo.3b5f7502066036f65751.png",
+    "static/media/waterpark.png": "/static/media/waterpark.992fa4264cb398c81cdb.png",
+    "static/media/actionland.png": "/static/media/actionland.8ca2326e4baf2f51ade7.png",
+    "static/media/carnival.png": "/static/media/carnival.af3ef98e4733b8a375ee.png",
+    "static/media/OPTIFuturaDemiBold.otf": "/static/media/OPTIFuturaDemiBold.b8c06cce8a7c2a69d500.otf",
+    "index.html": "/index.html",
+    "main.fa33f278.css.map": "/static/css/main.fa33f278.css.map",
+    "main.8ae02058.js.map": "/static/js/main.8ae02058.js.map",
+    "787.eea31e77.chunk.js.map": "/static/js/787.eea31e77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa33f278.css",
+    "static/js/main.8ae02058.js"
+  ]
+}
